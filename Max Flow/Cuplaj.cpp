@@ -92,3 +92,4 @@ int main()
         if(r[i])
             fout << i << " " << r[i] << "\n";
 }
+
